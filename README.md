@@ -5,7 +5,7 @@ Module 1 Challenge for UM Coding Boot Camp:
            
            
            Here are the changes I've made to better describe and navigate through it's elements (Detailed comments are inside the HTML/CSS files):
-      -----------------------------------------------------------------------------------------------------------------------------------------------     
+    
 
 Website Desc. Added to title.
 
