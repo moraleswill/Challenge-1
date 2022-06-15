@@ -1,10 +1,9 @@
 Module 1 Challenge for UM Coding Boot Camp:
 
-  Using HTML Semantics to clean up the "div soup", grouping selectors with identical styles, and other slight adjustments to refactor and clean up the code.
+Using HTML Semantics to clean up the "div soup", grouping selectors with identical styles, and other slight adjustments to refactor and clean up the code.
   
-           
-           
-           Here are the changes I've made to better describe and navigate through it's elements (Detailed comments are inside the HTML/CSS files):
+  
+  Here are the changes I've made to better describe and navigate through it's elements (Detailed comments are inside the HTML/CSS files):
     
 
 Website Desc. Added to title.
